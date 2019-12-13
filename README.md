@@ -16,7 +16,7 @@ An introductory lab to loops and conditionals in JavaScript/
 
 ## Getting Started
 
-1. Create a file called `morning_lab_solutions.js` .
+1. Create a file called `control_flow_lab.js` .
 
 
 
