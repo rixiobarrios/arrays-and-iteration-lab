@@ -258,7 +258,7 @@ Should now generate:
 
 ## Hungry for More?
 
-[Work on this additional lab:](https://git.generalassemb.ly/seir-129/control-flow-lab)
+[Work on this additional lab](https://git.generalassemb.ly/seir-129/control-flow-lab)
 
 Sign up for [Project Euler](https://projecteuler.net/problem=1) and start tackling the problems.
 
