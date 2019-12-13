@@ -257,6 +257,9 @@ Should now generate:
 
 
 ## Hungry for More?
+
+[Work on this additional lab:](https://git.generalassemb.ly/seir-129/control-flow-lab)
+
 Sign up for [Project Euler](https://projecteuler.net/problem=1) and start tackling the problems.
 
 Try out some [Project Euler](https://projecteuler.net/archives) problems. Specifically try out numbers 1 & 2.
